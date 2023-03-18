@@ -35,6 +35,7 @@ int main()
     printf("QUOTIENT = %f\n", div);
     printf("MODULUS = %d", mod);
     printf("Hello Kurama");
+    printf("Hello Naruto");
 
     return 0; 
 }
