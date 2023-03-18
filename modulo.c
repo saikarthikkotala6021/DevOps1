@@ -34,6 +34,7 @@ int main()
     printf("PRODUCT = %d\n", mult);
     printf("QUOTIENT = %f\n", div);
     printf("MODULUS = %d", mod);
+    printf("Hello Kurama");
 
     return 0; 
 }
